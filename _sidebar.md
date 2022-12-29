@@ -1,0 +1,11 @@
+﻿- كتب
+  - ad-Dawāwīn as-Sitt (الدواوين الست)
+  - Ǧāmiʿ ad-Dawāwīn (جامع الدواوين)
+  - Kanz al-ʿārifīn (كنز العارفين)
+  - Nūr al-Ḥaqq (نور الحق)
+  - [Rūḥ al-adab (روح الأدب)](/kutub/ruhaladab.md)
+  - [Sayr al-qalb (سير القلب)](/kutub/Sayr/Sayr.md)
+- فقه
+  - Fiqh aš-Šarīʿa (فقه الشريعة)
+  - Fiqh aṭ-Ṭarīqa (فقه الطريقة)
+- أذكار
