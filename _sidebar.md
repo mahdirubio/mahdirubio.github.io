@@ -7,8 +7,8 @@
     5. [Šifāʾ al-asqām (شفاء الأسقام)](/kutub/Diwan5.md)
     6. [Manāsik ahl al-widād (مناسك أهل الوداد)](/kutub/Diwan6.md)
   - Ǧāmiʿ ad-Dawāwīn (جامع الدواوين)
-  - Kanz al-ʿārifīn (كنز العارفين)
-  - Nūr al-Ḥaqq (نور الحق)
+  - [Kanz al-ʿārifīn (كنز العارفين)](/kutub/Kanz.md)
+  - [Nūr al-Ḥaqq (نور الحق)](/kutub/Nur.md)
   - [Rūḥ al-adab (روح الأدب)](/kutub/ruhaladab.md)
   - [Sayr al-qalb (سير القلب)](/kutub/Sayr.md)
 - فقه
