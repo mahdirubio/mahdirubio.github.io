@@ -38,6 +38,7 @@
 </div>
 
 <div style="text-align: justify">
+
 ## al-Wird al-Lāzim
 <p>
     -
